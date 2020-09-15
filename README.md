@@ -31,5 +31,5 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### Firebase deployment
-firebase init
+firebase init <br/>
 firebase deploy
