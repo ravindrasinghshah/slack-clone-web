@@ -1,0 +1,11 @@
+.demoInfo {
+    padding: 20px;
+}
+
+.demoInfo>h4 {
+    padding-bottom: 5px;
+}
+
+.MuiAvatar-root {
+    background-color: var(--slack-color) !important;
+}

@@ -1,0 +1,65 @@
+.sidebarOption {
+    display     : flex;
+    align-items : center;
+    font-size   : 12px;
+    cursor      : pointer;
+    padding-left: 2px;
+}
+
+.sidebarOption:hover {
+    background-color: #340e36;
+    opacity         : 0.9;
+}
+
+.sidebarOption>h3 {
+    font-weight: 500;
+}
+
+.sidebarOption_icon {
+    padding  : 10px;
+    font-size: 15px !important;
+}
+
+.sidebarOption_hash {
+    padding: 10px;
+}
+
+.sidebarOption_channel {
+    padding: 10px 0;
+}
+
+
+.sidebarOption_modal {
+    width           : 400px;
+    border          : 2px solid #340e36;
+    padding         : 16px 32px 24px;
+    position        : absolute;
+    box-shadow      : 0px 3px 5px -1px rgba(0, 0, 0, 0.2), 0px 5px 8px 0px rgba(0, 0, 0, 0.14), 0px 1px 14px 0px rgba(0, 0, 0, 0.12);
+    background-color: #fff;
+}
+
+
+.sidebarOption_modal_form>input {
+    display      : flex;
+    margin       : 10px 0;
+    width        : 95%;
+    border       : 1px solid gray;
+    border-radius: 3px;
+    padding      : 10px;
+}
+
+.sidebarOption_modal_form>button {
+    display         : flex;
+    align-items     : center;
+    background-color: var(--slack-color);
+    color           : white;
+    border          : 1px solid gray;
+    margin-top      : 10px;
+    float           : right;
+    text-transform  : none;
+}
+
+.sidebarOption_modal_form>button:hover {
+    background-color: #340e36;
+    opacity         : 0.9;
+}

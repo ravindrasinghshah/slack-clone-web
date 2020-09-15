@@ -1,0 +1,15 @@
+.welcome {
+    /* display: flex; */
+    padding: 20px;
+}
+
+.welcome_header {
+    flex   : 1;
+    display: flex;
+}
+
+.welcome_list {
+    padding-top: 10px;
+    flex   : 1;
+    display: grid;
+}
