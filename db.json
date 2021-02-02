@@ -1,11 +1,44 @@
 {
-  "posts": [
+  "videos": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "Breaking Down Botany",
+      "thumbnail_src": "https://dt9xom8irs6kr.cloudfront.net/u229653/2EqwdhNOHSSFPiCbaJC21604593446.png",
+      "host_name": "Jocelyn Perez-Blanco",
+      "host_email": "jocelyn@herbangarden.eco",
+      "video_name": "breaking-down-botany"
+    },
+    {
+      "id": 2,
+      "title": "Deep Rest",
+      "thumbnail_src": "https://dt9xom8irs6kr.cloudfront.net/u229653/T3FFHj4W2O9pHuh8Dyer1604962462.png",
+      "host_name": "BeTime",
+      "host_email": "BeTime@email.com",
+      "video_name": "Be-Time"
+    },
+    {
+      "id": 3,
+      "title": "Showcase Of Words (Open Mic)",
+      "thumbnail_src": "https://dt9xom8irs6kr.cloudfront.net/u229653/DSL6CbEQdRE7iqqEBKwo1604593814.png",
+      "host_name": "LKN",
+      "host_email": "LKN@email.com",
+      "video_name": "LKN-1"
+    },
+    {
+      "id": 4,
+      "title": "Digital Photography For Beginners (DSLR) GROUP CLASS",
+      "thumbnail_src": "https://dt9xom8irs6kr.cloudfront.net/u229653/Vj4s7ZwpoY5bk7Fiu8BS1604159920.png",
+      "host_name": "Petro Onysko",
+      "host_email": "petro@email.com",
+      "video_name": "Petro-Onysko-1"
+    },
+    {
+      "id": 5,
+      "title": "Vinyasa Session",
+      "thumbnail_src": "https://dt9xom8irs6kr.cloudfront.net/u229653/rqtFZArHFyBYUnlgY72s1604162437.png",
+      "host_name": "Marina Gordon",
+      "host_email": "MarinaGordon@email.com",
+      "video_name": "Marina-Gordon-1"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
